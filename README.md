@@ -2,7 +2,7 @@
 Proyecto educacional para el control de un invernadero a escala utilizando Arduino y herramientas Open Source.
 <br> <br>
 Herramientas a utilizar:
-<br>
+<br> <br>
 Arduino UNO 
 <br>
 Modulo LED RGB compatible con Arduino
