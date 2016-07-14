@@ -3,7 +3,7 @@ Proyecto educacional para el control de un invernadero a escala utilizando Ardui
 
 Herramientas a utilizar:
 <br>
-Arduino UNO 
+Arduino UNO <br>
 Modulo LED RGB compatible con Arduino
 Modulo Sensor de Humedad de Suelo compatible con Arduino
 Modulo Sensor de Caida de Lluvia compatible con Arduino
